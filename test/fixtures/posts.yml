@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  usuario: MyString
+  comentario: MyText
+  tipo: MyString
+  precio: 1
+  fecha: 2016-11-24
+  hora: 2016-11-24 20:46:57
+
+two:
+  usuario: MyString
+  comentario: MyText
+  tipo: MyString
+  precio: 1
+  fecha: 2016-11-24
+  hora: 2016-11-24 20:46:57
